@@ -8,7 +8,7 @@ A comprehensive dataset of U.S. cryptocurrency enforcement actions and litigatio
 
 - **56 phantom penalties cleared** — alleged scheme/fundraise amounts incorrectly recorded as imposed penalties (total: ~$4.27B removed from penalty totals)
 - **34 stale outcomes updated** — cases resolved in 2021–2025 that still showed `outcome = 'ongoing'`
-- **4 true duplicates removed** — adversarial count: 938 → 934
+- **4 true duplicates removed** — adversarial count: 938 → 933
 - **14 category reclassifications** — federal actions (OFAC, FinCEN, FTC) previously miscategorized
 - **Howey analysis validated** — 94.7% accuracy (13 false positives corrected, 3 false negatives identified)
 - **Landmark case update**: U.S. v. Eisenberg (Mango Markets) — criminal convictions vacated May 2025
@@ -23,14 +23,14 @@ The `penalty_amount` field currently conflates four distinct monetary concepts:
 3. **Restitution orders** — payments to victims
 4. **Disgorgement** — return of profits (SEC/CFTC)
 
-Users should exercise caution when aggregating penalty totals, particularly for DOJ cases. A future schema update will add separate `forfeiture_amount`, `restitution_amount`, and `disgorgement_amount` columns.
+Users should exercise caution when aggregating penalty totals, particularly for DOJ cases. Separate `forfeiture_amount`, `restitution_amount`, and `disgorgement_amount` columns have been added to distinguish these from civil penalties.
 
 ## Dataset Overview
 
 | Metric | Count |
 |--------|-------|
 | Total matters (source) | 1,157 |
-| Adversarial matters (this dataset) | 934 |
+| Adversarial matters (this dataset) | 933 |
 | Excluded: Regulatory Guidance (non-adversarial) | 210 |
 | Excluded: Non-categorizable / duplicates | 13 |
 | Filings with extracted document text | 735 (78.7% of adversarial) |

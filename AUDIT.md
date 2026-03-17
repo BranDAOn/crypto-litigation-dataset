@@ -148,3 +148,14 @@ ID 689: The first jury conviction for DeFi market manipulation was **vacated by 
 ---
 
 *End of master audit memo.*
+
+---
+
+## Post-Audit Corrections (March 17, 2026)
+
+| Change | Detail |
+|--------|--------|
+| **Ingersoll/Adamczyk excluded** | U.S. v. Ingersoll/Adamczyk (ID 849) reclassified as Excluded — real estate/wire fraud, not crypto-related |
+| **OFAC/Exodus → DOJ** | Settlement Agreement between Treasury OFAC and Exodus Movement (ID 298) moved from OFAC to DOJ |
+| **Ripple penalty updated** | SEC v. Ripple Labs (ID 933) — $125M August 2024 judgment → $50M May 2025 settlement (remainder returned under post-Gensler recalibration) |
+| **Net effect** | Total adversarial: 934 → 933. DOJ resolved: 74 → 73. DOJ conviction rate: 91.9% → 93.2%. |
