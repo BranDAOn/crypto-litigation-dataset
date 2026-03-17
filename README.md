@@ -57,7 +57,7 @@ Users should exercise caution when aggregating penalty totals, particularly for 
 | Category | Count | Description |
 |----------|-------|-------------|
 | Regulatory Guidance | 210 | Commissioner speeches, no-action letters, investor bulletins, rulemaking (non-adversarial) |
-| Excluded | 9 | Manhattan DA, FINRA, private parties challenging regulators (Coin Center v. Yellen, Custodia v. Fed, etc.) |
+| Excluded | 13 | Manhattan DA, FINRA, private parties challenging regulators (Coin Center v. Yellen, Custodia v. Fed, etc.) |
 
 ## Files
 
