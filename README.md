@@ -45,10 +45,13 @@ Users should exercise caution when aggregating penalty totals, particularly for 
 |----------|-------|-------------|
 | Private | 411 | Class actions and private litigation |
 | SEC | 203 | Securities and Exchange Commission enforcement |
-| DOJ | 146 | Department of Justice, FTC, OFAC/FinCEN, civil forfeiture |
-| State | 103 | State attorneys general, NYDFS, state regulators |
+| DOJ | 139 | Department of Justice criminal prosecutions |
+| State | 100 | State attorneys general, NYDFS, state regulators |
 | CFTC | 58 | Commodity Futures Trading Commission enforcement |
 | Bankruptcy | 13 | Crypto bankruptcy proceedings |
+| FTC | 4 | Federal Trade Commission enforcement |
+| FinCEN | 3 | Financial Crimes Enforcement Network (Treasury) |
+| OFAC | 3 | Office of Foreign Assets Control (Treasury) |
 
 ### Excluded Categories (in source data but not in adversarial dataset)
 | Category | Count | Description |
@@ -59,7 +62,7 @@ Users should exercise caution when aggregating penalty totals, particularly for 
 ## Files
 
 ### SQLite Database
-- `tracker.db` — Full SQLite database (~42MB). Query directly with any SQLite client. Contains all 1,157 source matters; filter with `WHERE category NOT IN ('Regulatory Guidance', 'Excluded')` for the 938 adversarial matters.
+- `tracker.db` — Full SQLite database (~42MB). Query directly with any SQLite client. Contains all 1,157 source matters; filter with `WHERE category NOT IN ('Regulatory Guidance', 'Excluded')` for the 934 adversarial matters.
 
 ### CSV Exports
 - `csv/filings.csv` — All 1,157 source matters (case name, court, docket, category, outcome, penalties, summary)
@@ -83,11 +86,16 @@ Users should exercise caution when aggregating penalty totals, particularly for 
 | `filing_date` | Date filed |
 | `court` | Court or authority |
 | `docket_number` | Docket/case number |
-| `category` | SEC, DOJ, CFTC, Private, State, Bankruptcy (adversarial) or Regulatory Guidance, Excluded |
+| `category` | SEC, DOJ, CFTC, Private, State, Bankruptcy, FTC, FinCEN, OFAC (adversarial) or Regulatory Guidance, Excluded |
 | `outcome` | ongoing, settled, dismissed, win, loss |
-| `penalty_amount` | Court-ordered penalty/judgment (USD) |
+| `penalty_amount` | Civil monetary penalties / fines imposed by court or regulator (USD). Does NOT include forfeiture or restitution. |
+| `forfeiture_amount` | Criminal forfeiture orders (USD). Primarily DOJ cases. |
+| `restitution_amount` | Restitution orders to victims (USD). Primarily DOJ cases. |
+| `disgorgement_amount` | Disgorgement of ill-gotten gains (USD). Primarily SEC/CFTC cases. |
 | `settlement_amount` | Settlement amount (USD) |
 | `alleged_amount` | Alleged scheme size / investor losses (USD) |
+| `crypto_relevance` | `crypto_specific` (default), `crypto_incidental`, or `crypto_tangential` |
+| `last_verified_date` | Date the case was last verified against primary sources (YYYY-MM-DD) |
 | `summary` | Brief description of the matter |
 | `source_url` | Morrison Cohen Tracker URL |
 | `document_url` | Link to primary filing document |
