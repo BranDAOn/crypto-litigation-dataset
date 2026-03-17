@@ -1,8 +1,8 @@
 filing_id,topic
-282,Market Manipulation
+282,"Market Manipulation"
 283,DAO
 284,Other
-285,Money Laundering
+285,"Money Laundering"
 285,Stablecoin
 285,Exchange
 286,Other
@@ -14,10 +14,10 @@ filing_id,topic
 292,Other
 293,Fraud/Ponzi
 293,Stablecoin
-293,ICO/Token Sale
+293,"ICO/Token Sale"
 293,Exchange
 294,DeFi
-295,ICO/Token Sale
+295,"ICO/Token Sale"
 296,Fraud/Ponzi
 296,Mining
 296,Exchange
@@ -28,7 +28,7 @@ filing_id,topic
 301,Other
 302,Wallet/Custody
 303,Other
-304,Money Laundering
+304,"Money Laundering"
 304,Stablecoin
 304,Staking
 304,Wallet/Custody
@@ -44,13 +44,13 @@ filing_id,topic
 312,DeFi
 313,Fraud/Ponzi
 313,Ransomware
-313,Money Laundering
-313,Market Manipulation
+313,"Money Laundering"
+313,"Market Manipulation"
 313,Privacy/Mixer
 313,Stablecoin
 313,Staking
 313,Mining
-313,ICO/Token Sale
+313,"ICO/Token Sale"
 313,Wallet/Custody
 313,Exchange
 314,Other
@@ -67,7 +67,7 @@ filing_id,topic
 324,Exchange
 325,Stablecoin
 326,Fraud/Ponzi
-326,Money Laundering
+326,"Money Laundering"
 326,Stablecoin
 326,Mining
 326,Exchange
@@ -85,7 +85,7 @@ filing_id,topic
 336,Wallet/Custody
 336,Exchange
 337,Fraud/Ponzi
-337,Money Laundering
+337,"Money Laundering"
 337,Exchange
 338,DeFi
 339,Stablecoin
@@ -96,11 +96,11 @@ filing_id,topic
 344,Other
 345,Other
 346,Fraud/Ponzi
-346,Market Manipulation
+346,"Market Manipulation"
 346,NFT
 346,Stablecoin
 346,DeFi
-346,ICO/Token Sale
+346,"ICO/Token Sale"
 346,Exchange
 347,Staking
 348,Staking
@@ -110,7 +110,7 @@ filing_id,topic
 351,DAO
 351,Stablecoin
 351,DeFi
-351,ICO/Token Sale
+351,"ICO/Token Sale"
 351,Wallet/Custody
 351,Exchange
 352,Other
@@ -128,21 +128,21 @@ filing_id,topic
 362,Stablecoin
 363,Other
 364,Fraud/Ponzi
-364,Money Laundering
+364,"Money Laundering"
 364,Stablecoin
-364,ICO/Token Sale
+364,"ICO/Token Sale"
 364,Wallet/Custody
 365,Other
 366,Fraud/Ponzi
 367,Fraud/Ponzi
 367,NFT
-368,Market Manipulation
-368,ICO/Token Sale
+368,"Market Manipulation"
+368,"ICO/Token Sale"
 368,Exchange
 369,Exchange
 370,Fraud/Ponzi
-370,Money Laundering
-370,Insider Trading
+370,"Money Laundering"
+370,"Insider Trading"
 372,Other
 373,Fraud/Ponzi
 373,NFT
@@ -171,7 +171,7 @@ filing_id,topic
 390,Exchange
 391,Fraud/Ponzi
 391,Mining
-391,ICO/Token Sale
+391,"ICO/Token Sale"
 391,Exchange
 392,Lending
 393,NFT
@@ -179,12 +179,12 @@ filing_id,topic
 393,Stablecoin
 393,Staking
 393,Mining
-393,ICO/Token Sale
+393,"ICO/Token Sale"
 394,Other
 396,Exchange
 397,Exchange
 398,Exchange
-399,Money Laundering
+399,"Money Laundering"
 399,Stablecoin
 399,Exchange
 400,Exchange
@@ -200,13 +200,13 @@ filing_id,topic
 408,NFT
 409,Fraud/Ponzi
 409,Exchange
-410,Market Manipulation
-411,Market Manipulation
+410,"Market Manipulation"
+411,"Market Manipulation"
 411,Exchange
 412,Other
 413,Fraud/Ponzi
-413,Money Laundering
-413,Market Manipulation
+413,"Money Laundering"
+413,"Market Manipulation"
 413,NFT
 413,DAO
 413,Stablecoin
@@ -214,55 +214,55 @@ filing_id,topic
 413,Lending
 413,Staking
 413,Mining
-413,ICO/Token Sale
+413,"ICO/Token Sale"
 413,Wallet/Custody
 413,Exchange
 414,Exchange
 415,Exchange
 416,Fraud/Ponzi
-416,Money Laundering
+416,"Money Laundering"
 416,Privacy/Mixer
 416,DAO
 416,Lending
 416,Exchange
-417,Money Laundering
+417,"Money Laundering"
 417,Stablecoin
 418,Fraud/Ponzi
-418,Money Laundering
+418,"Money Laundering"
 418,Stablecoin
 418,DeFi
 418,Mining
 418,Wallet/Custody
 418,Exchange
 419,Exchange
-420,Money Laundering
-420,Market Manipulation
+420,"Money Laundering"
+420,"Market Manipulation"
 420,Stablecoin
 420,DeFi
-420,ICO/Token Sale
+420,"ICO/Token Sale"
 421,Mining
 422,Fraud/Ponzi
 423,DeFi
 424,Other
 425,Exchange
 426,Fraud/Ponzi
-426,Market Manipulation
+426,"Market Manipulation"
 427,Fraud/Ponzi
-427,Money Laundering
+427,"Money Laundering"
 427,DAO
 427,Exchange
 428,Fraud/Ponzi
-428,Market Manipulation
+428,"Market Manipulation"
 428,NFT
 428,DAO
 428,Stablecoin
 428,Lending
 428,Staking
-428,ICO/Token Sale
+428,"ICO/Token Sale"
 428,Wallet/Custody
 428,Exchange
-429,Insider Trading
-430,Money Laundering
+429,"Insider Trading"
+430,"Money Laundering"
 431,Mining
 432,DAO
 432,Staking
@@ -270,86 +270,86 @@ filing_id,topic
 432,Exchange
 433,Other
 434,Fraud/Ponzi
-434,Market Manipulation
+434,"Market Manipulation"
 435,NFT
-436,Money Laundering
+436,"Money Laundering"
 436,Privacy/Mixer
 436,Exchange
 437,DAO
-437,ICO/Token Sale
+437,"ICO/Token Sale"
 437,Exchange
 438,Lending
 439,Fraud/Ponzi
 439,DeFi
-439,ICO/Token Sale
+439,"ICO/Token Sale"
 439,Exchange
 440,Ransomware
-440,Market Manipulation
-441,Money Laundering
+440,"Market Manipulation"
+441,"Money Laundering"
 441,Privacy/Mixer
 441,Exchange
-442,Money Laundering
-443,Money Laundering
+442,"Money Laundering"
+443,"Money Laundering"
 443,Privacy/Mixer
 444,Other
 445,DeFi
-445,ICO/Token Sale
+445,"ICO/Token Sale"
 445,Exchange
-446,Money Laundering
+446,"Money Laundering"
 446,DeFi
 446,Exchange
 447,Fraud/Ponzi
 448,Other
 449,Other
 450,Fraud/Ponzi
-450,Money Laundering
+450,"Money Laundering"
 450,NFT
 450,DAO
 450,Stablecoin
 450,DeFi
 450,Lending
-450,ICO/Token Sale
+450,"ICO/Token Sale"
 450,Exchange
 451,Fraud/Ponzi
-451,ICO/Token Sale
+451,"ICO/Token Sale"
 451,Wallet/Custody
 451,Exchange
 452,Mining
-453,Market Manipulation
-454,Money Laundering
+453,"Market Manipulation"
+454,"Money Laundering"
 455,Fraud/Ponzi
-455,Money Laundering
+455,"Money Laundering"
 455,DAO
 455,Stablecoin
 455,Wallet/Custody
 455,Exchange
-456,Market Manipulation
+456,"Market Manipulation"
 456,Stablecoin
-456,ICO/Token Sale
+456,"ICO/Token Sale"
 456,Exchange
 457,Exchange
 458,Other
 459,Other
-460,Market Manipulation
+460,"Market Manipulation"
 460,NFT
 460,DAO
 460,Stablecoin
 460,DeFi
 460,Exchange
-461,Market Manipulation
+461,"Market Manipulation"
 461,DAO
 461,Stablecoin
 461,DeFi
 461,Exchange
-462,Market Manipulation
+462,"Market Manipulation"
 462,NFT
 462,DAO
 462,Stablecoin
 462,DeFi
 462,Exchange
 463,NFT
-464,Market Manipulation
-465,Market Manipulation
+464,"Market Manipulation"
+465,"Market Manipulation"
 465,NFT
 465,DAO
 465,Stablecoin
@@ -358,35 +358,35 @@ filing_id,topic
 466,Other
 467,DAO
 467,Exchange
-468,Market Manipulation
+468,"Market Manipulation"
 468,Stablecoin
 468,DeFi
 468,Exchange
 469,DAO
 469,Exchange
-470,Money Laundering
+470,"Money Laundering"
 470,DAO
 470,Stablecoin
 470,DeFi
 470,Lending
-471,Money Laundering
-471,Market Manipulation
+471,"Money Laundering"
+471,"Market Manipulation"
 471,Stablecoin
 471,DeFi
 471,Exchange
 472,Exchange
 473,Exchange
 474,NFT
-475,Market Manipulation
-476,Money Laundering
-476,Market Manipulation
+475,"Market Manipulation"
+476,"Money Laundering"
+476,"Market Manipulation"
 477,DAO
 477,Stablecoin
 477,DeFi
 477,Lending
 477,Exchange
 478,Fraud/Ponzi
-478,Money Laundering
+478,"Money Laundering"
 478,Privacy/Mixer
 478,Stablecoin
 478,DeFi
@@ -395,10 +395,10 @@ filing_id,topic
 478,Exchange
 479,Fraud/Ponzi
 479,DeFi
-479,ICO/Token Sale
+479,"ICO/Token Sale"
 479,Exchange
 480,NFT
-481,Money Laundering
+481,"Money Laundering"
 482,Stablecoin
 483,Other
 484,Stablecoin
@@ -415,31 +415,31 @@ filing_id,topic
 491,Exchange
 492,Other
 493,Exchange
-494,Money Laundering
+494,"Money Laundering"
 494,Exchange
 495,Fraud/Ponzi
 496,Stablecoin
 497,Other
 498,Exchange
 499,NFT
-500,ICO/Token Sale
+500,"ICO/Token Sale"
 501,Other
 502,Fraud/Ponzi
 502,Ransomware
-502,Money Laundering
+502,"Money Laundering"
 502,Exchange
 503,Staking
 504,Fraud/Ponzi
-504,Market Manipulation
+504,"Market Manipulation"
 504,NFT
 504,Stablecoin
 504,DeFi
-504,ICO/Token Sale
+504,"ICO/Token Sale"
 504,Exchange
 505,Exchange
-506,Market Manipulation
+506,"Market Manipulation"
 507,DAO
-508,Money Laundering
+508,"Money Laundering"
 509,Other
 510,Fraud/Ponzi
 510,Stablecoin
@@ -447,7 +447,7 @@ filing_id,topic
 510,Exchange
 511,Exchange
 512,Fraud/Ponzi
-512,Money Laundering
+512,"Money Laundering"
 512,NFT
 512,DAO
 512,Stablecoin
@@ -455,18 +455,18 @@ filing_id,topic
 512,Exchange
 513,NFT
 514,Exchange
-515,Money Laundering
-515,Market Manipulation
+515,"Money Laundering"
+515,"Market Manipulation"
 515,Exchange
 516,Fraud/Ponzi
-516,Money Laundering
-516,Market Manipulation
+516,"Money Laundering"
+516,"Market Manipulation"
 516,NFT
 516,DeFi
 516,Staking
-516,ICO/Token Sale
+516,"ICO/Token Sale"
 516,Exchange
-517,Money Laundering
+517,"Money Laundering"
 517,NFT
 517,DeFi
 518,Fraud/Ponzi
@@ -478,17 +478,17 @@ filing_id,topic
 522,DeFi
 522,Exchange
 523,Fraud/Ponzi
-523,Money Laundering
+523,"Money Laundering"
 523,Exchange
 524,Exchange
-525,Money Laundering
+525,"Money Laundering"
 525,Privacy/Mixer
 525,DeFi
 526,Fraud/Ponzi
 526,Exchange
-527,ICO/Token Sale
+527,"ICO/Token Sale"
 527,Exchange
-528,Money Laundering
+528,"Money Laundering"
 529,Other
 530,Fraud/Ponzi
 531,Exchange
@@ -496,10 +496,10 @@ filing_id,topic
 533,DAO
 533,Exchange
 534,Fraud/Ponzi
-534,Money Laundering
+534,"Money Laundering"
 534,Stablecoin
 534,Exchange
-535,Money Laundering
+535,"Money Laundering"
 535,Stablecoin
 535,DeFi
 535,Lending
@@ -509,7 +509,7 @@ filing_id,topic
 536,Lending
 537,Fraud/Ponzi
 537,Ransomware
-537,Money Laundering
+537,"Money Laundering"
 537,Privacy/Mixer
 537,Stablecoin
 537,Mining
@@ -517,13 +517,13 @@ filing_id,topic
 538,Fraud/Ponzi
 538,DAO
 538,Lending
-538,ICO/Token Sale
+538,"ICO/Token Sale"
 538,Exchange
 539,Fraud/Ponzi
 539,Ransomware
-539,Money Laundering
-539,Insider Trading
-539,Market Manipulation
+539,"Money Laundering"
+539,"Insider Trading"
+539,"Market Manipulation"
 539,NFT
 539,Stablecoin
 539,DeFi
@@ -532,23 +532,23 @@ filing_id,topic
 539,Wallet/Custody
 539,Exchange
 540,Other
-541,Money Laundering
+541,"Money Laundering"
 541,Privacy/Mixer
 541,DeFi
-542,Money Laundering
+542,"Money Laundering"
 543,Fraud/Ponzi
-543,Market Manipulation
+543,"Market Manipulation"
 543,Mining
 543,Exchange
 544,Fraud/Ponzi
-544,Money Laundering
+544,"Money Laundering"
 544,NFT
-545,Market Manipulation
+545,"Market Manipulation"
 545,DAO
 545,DeFi
 545,Staking
 545,Exchange
-546,Money Laundering
+546,"Money Laundering"
 546,Privacy/Mixer
 546,DeFi
 547,Lending
@@ -558,22 +558,22 @@ filing_id,topic
 551,Stablecoin
 553,Fraud/Ponzi
 553,Exchange
-554,Money Laundering
-554,Market Manipulation
+554,"Money Laundering"
+554,"Market Manipulation"
 554,NFT
 554,Exchange
 555,Ransomware
-555,Money Laundering
+555,"Money Laundering"
 555,Exchange
 556,Other
 557,Other
 558,Ransomware
-558,Money Laundering
-558,Market Manipulation
+558,"Money Laundering"
+558,"Market Manipulation"
 558,Stablecoin
 558,Exchange
 559,Other
-560,Money Laundering
+560,"Money Laundering"
 560,Lending
 561,Exchange
 562,DAO
@@ -582,7 +582,7 @@ filing_id,topic
 563,DAO
 563,DeFi
 563,Lending
-564,Market Manipulation
+564,"Market Manipulation"
 565,Exchange
 566,DAO
 566,Stablecoin
@@ -591,21 +591,21 @@ filing_id,topic
 566,Exchange
 567,Fraud/Ponzi
 567,Lending
-568,Market Manipulation
+568,"Market Manipulation"
 568,DAO
 568,Stablecoin
 568,DeFi
 568,Lending
 568,Staking
-568,ICO/Token Sale
+568,"ICO/Token Sale"
 568,Wallet/Custody
 568,Exchange
-569,Money Laundering
+569,"Money Laundering"
 570,Mining
 571,Fraud/Ponzi
-571,Money Laundering
+571,"Money Laundering"
 571,DeFi
-572,Money Laundering
+572,"Money Laundering"
 572,Exchange
 573,DAO
 573,Lending
@@ -617,13 +617,13 @@ filing_id,topic
 577,DAO
 578,Fraud/Ponzi
 578,NFT
-579,Money Laundering
+579,"Money Laundering"
 579,Stablecoin
 579,DeFi
-580,Money Laundering
+580,"Money Laundering"
 580,Stablecoin
 580,DeFi
-581,Money Laundering
+581,"Money Laundering"
 581,Stablecoin
 581,DeFi
 582,Stablecoin
@@ -637,13 +637,13 @@ filing_id,topic
 587,Other
 588,NFT
 588,DAO
-589,Money Laundering
+589,"Money Laundering"
 589,Privacy/Mixer
 589,DAO
 590,Wallet/Custody
-591,Market Manipulation
+591,"Market Manipulation"
 592,Other
-593,Money Laundering
+593,"Money Laundering"
 593,DeFi
 593,Wallet/Custody
 594,Fraud/Ponzi
@@ -652,32 +652,32 @@ filing_id,topic
 594,DeFi
 594,Lending
 594,Staking
-594,ICO/Token Sale
+594,"ICO/Token Sale"
 594,Exchange
 595,Fraud/Ponzi
-595,Market Manipulation
+595,"Market Manipulation"
 595,Staking
 595,Mining
 595,Exchange
 596,Fraud/Ponzi
 596,Exchange
 597,DAO
-597,ICO/Token Sale
+597,"ICO/Token Sale"
 598,Fraud/Ponzi
 598,Stablecoin
-598,ICO/Token Sale
+598,"ICO/Token Sale"
 598,Wallet/Custody
 598,Exchange
-599,Market Manipulation
+599,"Market Manipulation"
 599,Lending
 600,Fraud/Ponzi
-600,Market Manipulation
+600,"Market Manipulation"
 600,Stablecoin
 600,Lending
-600,ICO/Token Sale
+600,"ICO/Token Sale"
 600,Exchange
 601,Fraud/Ponzi
-601,Money Laundering
+601,"Money Laundering"
 601,Privacy/Mixer
 601,Stablecoin
 601,DeFi
@@ -687,11 +687,11 @@ filing_id,topic
 602,Lending
 602,Exchange
 603,Fraud/Ponzi
-603,Money Laundering
+603,"Money Laundering"
 604,Fraud/Ponzi
-604,Money Laundering
-604,Insider Trading
-604,Market Manipulation
+604,"Money Laundering"
+604,"Insider Trading"
+604,"Market Manipulation"
 604,Exchange
 605,Fraud/Ponzi
 606,Fraud/Ponzi
@@ -707,62 +707,62 @@ filing_id,topic
 611,Exchange
 612,Other
 613,Other
-616,Money Laundering
-616,Market Manipulation
+616,"Money Laundering"
+616,"Market Manipulation"
 616,NFT
 616,DAO
 616,Stablecoin
 616,DeFi
 616,Lending
 616,Staking
-616,ICO/Token Sale
+616,"ICO/Token Sale"
 616,Wallet/Custody
 616,Exchange
 617,Staking
 617,Exchange
-618,Money Laundering
-618,Market Manipulation
+618,"Money Laundering"
+618,"Market Manipulation"
 618,NFT
 618,DAO
 618,Stablecoin
 618,DeFi
 618,Staking
-618,ICO/Token Sale
+618,"ICO/Token Sale"
 618,Wallet/Custody
 618,Exchange
 619,Exchange
 620,Fraud/Ponzi
-620,Money Laundering
-620,Market Manipulation
+620,"Money Laundering"
+620,"Market Manipulation"
 620,NFT
 620,Stablecoin
 621,Wallet/Custody
 622,Exchange
-623,Insider Trading
+623,"Insider Trading"
 623,Exchange
 624,Exchange
 625,Exchange
 626,DAO
-626,ICO/Token Sale
+626,"ICO/Token Sale"
 626,Wallet/Custody
 626,Exchange
 627,Fraud/Ponzi
-627,Market Manipulation
+627,"Market Manipulation"
 627,NFT
 627,Stablecoin
 628,Exchange
 629,Other
 630,Fraud/Ponzi
-630,Money Laundering
+630,"Money Laundering"
 630,Exchange
 631,DAO
 631,DeFi
 631,Lending
 631,Staking
-631,ICO/Token Sale
+631,"ICO/Token Sale"
 631,Exchange
-632,Money Laundering
-632,Market Manipulation
+632,"Money Laundering"
+632,"Market Manipulation"
 632,DAO
 632,Stablecoin
 632,DeFi
@@ -770,14 +770,14 @@ filing_id,topic
 632,Wallet/Custody
 632,Exchange
 633,Fraud/Ponzi
-633,Money Laundering
+633,"Money Laundering"
 633,Exchange
 634,Fraud/Ponzi
 634,Stablecoin
 635,Fraud/Ponzi
 635,Ransomware
-635,Money Laundering
-635,Market Manipulation
+635,"Money Laundering"
+635,"Market Manipulation"
 635,Privacy/Mixer
 635,NFT
 635,DAO
@@ -786,42 +786,42 @@ filing_id,topic
 635,Staking
 635,Exchange
 636,Fraud/Ponzi
-636,Money Laundering
+636,"Money Laundering"
 636,NFT
 636,DAO
 636,Stablecoin
 636,DeFi
 636,Lending
-636,ICO/Token Sale
+636,"ICO/Token Sale"
 636,Exchange
 637,NFT
-638,Money Laundering
+638,"Money Laundering"
 639,Fraud/Ponzi
 639,DAO
-639,ICO/Token Sale
+639,"ICO/Token Sale"
 639,Exchange
-640,Money Laundering
+640,"Money Laundering"
 640,Exchange
 641,Other
-642,Market Manipulation
+642,"Market Manipulation"
 642,Stablecoin
 642,DeFi
-643,Market Manipulation
+643,"Market Manipulation"
 643,DAO
 643,Stablecoin
 643,DeFi
 643,Staking
-643,ICO/Token Sale
+643,"ICO/Token Sale"
 643,Exchange
-644,Money Laundering
+644,"Money Laundering"
 645,Exchange
-646,Money Laundering
+646,"Money Laundering"
 647,Mining
 648,Exchange
 649,Stablecoin
 649,Lending
 649,Staking
-649,ICO/Token Sale
+649,"ICO/Token Sale"
 649,Exchange
 650,NFT
 651,Other
@@ -830,20 +830,20 @@ filing_id,topic
 652,Exchange
 653,Fraud/Ponzi
 653,Ransomware
-653,Insider Trading
+653,"Insider Trading"
 653,NFT
 653,Stablecoin
 653,DeFi
 653,Lending
 653,Staking
 653,Mining
-653,ICO/Token Sale
+653,"ICO/Token Sale"
 653,Wallet/Custody
 653,Exchange
 654,Fraud/Ponzi
 654,Exchange
 655,Fraud/Ponzi
-655,Money Laundering
+655,"Money Laundering"
 655,DeFi
 655,Lending
 655,Exchange
@@ -862,7 +862,7 @@ filing_id,topic
 663,Lending
 663,Exchange
 664,Exchange
-665,Money Laundering
+665,"Money Laundering"
 665,Exchange
 666,Fraud/Ponzi
 666,DeFi
@@ -881,10 +881,10 @@ filing_id,topic
 673,Exchange
 674,Exchange
 675,Fraud/Ponzi
-676,Money Laundering
+676,"Money Laundering"
 677,Other
 678,Fraud/Ponzi
-678,Market Manipulation
+678,"Market Manipulation"
 678,DAO
 678,Stablecoin
 678,DeFi
@@ -892,18 +892,18 @@ filing_id,topic
 678,Exchange
 679,DAO
 679,Wallet/Custody
-680,Market Manipulation
+680,"Market Manipulation"
 680,DAO
 680,Stablecoin
 680,DeFi
-680,ICO/Token Sale
+680,"ICO/Token Sale"
 680,Exchange
-681,Money Laundering
+681,"Money Laundering"
 681,Lending
 681,Wallet/Custody
-682,Money Laundering
+682,"Money Laundering"
 682,Exchange
-683,Money Laundering
+683,"Money Laundering"
 683,Lending
 683,Exchange
 684,Fraud/Ponzi
@@ -916,47 +916,47 @@ filing_id,topic
 686,Lending
 686,Exchange
 687,Fraud/Ponzi
-687,Money Laundering
+687,"Money Laundering"
 687,Exchange
 688,Exchange
-689,Market Manipulation
+689,"Market Manipulation"
 689,DAO
 689,Stablecoin
 689,DeFi
-689,ICO/Token Sale
+689,"ICO/Token Sale"
 689,Exchange
-690,Money Laundering
-690,Market Manipulation
+690,"Money Laundering"
+690,"Market Manipulation"
 690,DAO
 690,Stablecoin
 690,DeFi
-690,ICO/Token Sale
+690,"ICO/Token Sale"
 690,Exchange
 691,Fraud/Ponzi
 691,Mining
 691,Exchange
 692,Exchange
 693,Fraud/Ponzi
-693,Money Laundering
+693,"Money Laundering"
 693,Exchange
 694,Fraud/Ponzi
-694,Money Laundering
+694,"Money Laundering"
 694,Exchange
 695,Fraud/Ponzi
-695,Money Laundering
+695,"Money Laundering"
 695,DeFi
 695,Lending
 695,Exchange
 696,NFT
 696,Exchange
-697,Market Manipulation
+697,"Market Manipulation"
 697,DAO
 697,Stablecoin
 697,DeFi
 697,Lending
-697,ICO/Token Sale
+697,"ICO/Token Sale"
 697,Exchange
-698,Money Laundering
+698,"Money Laundering"
 699,Other
 700,Stablecoin
 700,Lending
@@ -965,18 +965,18 @@ filing_id,topic
 702,Exchange
 703,Exchange
 704,Fraud/Ponzi
-704,Money Laundering
-704,Market Manipulation
+704,"Money Laundering"
+704,"Market Manipulation"
 704,DeFi
 704,Lending
 704,Exchange
 705,Other
 706,Other
 707,Fraud/Ponzi
-707,Money Laundering
+707,"Money Laundering"
 707,NFT
 707,Lending
-707,ICO/Token Sale
+707,"ICO/Token Sale"
 707,Exchange
 708,Exchange
 709,Fraud/Ponzi
@@ -988,7 +988,7 @@ filing_id,topic
 713,Other
 714,Privacy/Mixer
 715,Ransomware
-715,Money Laundering
+715,"Money Laundering"
 716,DAO
 716,DeFi
 717,DAO
@@ -996,16 +996,16 @@ filing_id,topic
 717,Exchange
 718,DAO
 718,Staking
-718,ICO/Token Sale
+718,"ICO/Token Sale"
 718,Exchange
-719,Market Manipulation
+719,"Market Manipulation"
 719,Exchange
-720,Market Manipulation
+720,"Market Manipulation"
 720,Mining
-720,ICO/Token Sale
+720,"ICO/Token Sale"
 720,Exchange
-721,Market Manipulation
-721,ICO/Token Sale
+721,"Market Manipulation"
+721,"ICO/Token Sale"
 721,Exchange
 722,Fraud/Ponzi
 722,Stablecoin
@@ -1035,28 +1035,28 @@ filing_id,topic
 732,Stablecoin
 732,DeFi
 733,Lending
-734,Money Laundering
+734,"Money Laundering"
 734,DAO
 734,DeFi
 734,Exchange
-735,Money Laundering
+735,"Money Laundering"
 735,DAO
 735,DeFi
 735,Exchange
 736,DAO
-736,ICO/Token Sale
+736,"ICO/Token Sale"
 736,Exchange
 737,DAO
-737,ICO/Token Sale
+737,"ICO/Token Sale"
 737,Exchange
 738,Fraud/Ponzi
 739,Ransomware
-739,Money Laundering
+739,"Money Laundering"
 739,NFT
 739,Stablecoin
 739,DeFi
 740,Ransomware
-740,Money Laundering
+740,"Money Laundering"
 740,NFT
 740,Stablecoin
 740,DeFi
@@ -1065,9 +1065,9 @@ filing_id,topic
 743,Privacy/Mixer
 744,Fraud/Ponzi
 744,Ransomware
-744,Money Laundering
-744,Insider Trading
-744,Market Manipulation
+744,"Money Laundering"
+744,"Insider Trading"
+744,"Market Manipulation"
 744,Privacy/Mixer
 744,NFT
 744,DAO
@@ -1076,13 +1076,13 @@ filing_id,topic
 744,Lending
 744,Staking
 744,Mining
-744,ICO/Token Sale
+744,"ICO/Token Sale"
 744,Exchange
-745,Money Laundering
+745,"Money Laundering"
 745,DAO
 745,DeFi
 746,Ransomware
-746,Money Laundering
+746,"Money Laundering"
 746,Stablecoin
 746,Staking
 746,Wallet/Custody
@@ -1091,20 +1091,20 @@ filing_id,topic
 747,Mining
 748,Other
 749,Ransomware
-749,Money Laundering
-749,Market Manipulation
+749,"Money Laundering"
+749,"Market Manipulation"
 749,Privacy/Mixer
 749,NFT
 749,DAO
 749,Stablecoin
 749,DeFi
-749,ICO/Token Sale
+749,"ICO/Token Sale"
 749,Exchange
 750,Fraud/Ponzi
 750,Ransomware
-750,Money Laundering
-750,Insider Trading
-750,Market Manipulation
+750,"Money Laundering"
+750,"Insider Trading"
+750,"Market Manipulation"
 750,NFT
 750,DAO
 750,Stablecoin
@@ -1112,59 +1112,59 @@ filing_id,topic
 750,Lending
 750,Staking
 750,Mining
-750,ICO/Token Sale
+750,"ICO/Token Sale"
 750,Wallet/Custody
 750,Exchange
-751,Money Laundering
-751,Market Manipulation
+751,"Money Laundering"
+751,"Market Manipulation"
 751,Stablecoin
-752,Money Laundering
+752,"Money Laundering"
 753,Other
 754,Stablecoin
 755,Exchange
 756,Fraud/Ponzi
 757,Other
-758,Money Laundering
+758,"Money Laundering"
 758,DAO
 758,Stablecoin
 758,DeFi
 758,Staking
-758,ICO/Token Sale
+758,"ICO/Token Sale"
 758,Wallet/Custody
 758,Exchange
 759,Fraud/Ponzi
 760,DAO
-760,ICO/Token Sale
-761,Money Laundering
+760,"ICO/Token Sale"
+761,"Money Laundering"
 762,Lending
 763,Fraud/Ponzi
 763,Ransomware
-763,Money Laundering
+763,"Money Laundering"
 763,Privacy/Mixer
 764,Other
 766,Fraud/Ponzi
 766,Exchange
 767,Exchange
 768,Fraud/Ponzi
-768,Insider Trading
-768,Market Manipulation
+768,"Insider Trading"
+768,"Market Manipulation"
 768,NFT
 768,DAO
 768,DeFi
 768,Lending
 768,Staking
-768,ICO/Token Sale
+768,"ICO/Token Sale"
 768,Exchange
-769,Money Laundering
+769,"Money Laundering"
 769,DAO
 769,Stablecoin
 769,DeFi
 769,Lending
 769,Staking
-769,ICO/Token Sale
+769,"ICO/Token Sale"
 769,Wallet/Custody
 769,Exchange
-770,Insider Trading
+770,"Insider Trading"
 770,Stablecoin
 770,Exchange
 771,Lending
@@ -1174,13 +1174,13 @@ filing_id,topic
 773,Lending
 774,Lending
 775,Fraud/Ponzi
-775,ICO/Token Sale
+775,"ICO/Token Sale"
 776,NFT
 776,Stablecoin
 776,DeFi
 776,Lending
 776,Staking
-776,ICO/Token Sale
+776,"ICO/Token Sale"
 776,Exchange
 777,Other
 778,Fraud/Ponzi
@@ -1193,7 +1193,7 @@ filing_id,topic
 784,Other
 785,NFT
 786,Stablecoin
-787,Money Laundering
+787,"Money Laundering"
 787,Exchange
 788,Other
 789,Other
@@ -1203,21 +1203,21 @@ filing_id,topic
 792,Other
 793,Other
 794,Exchange
-795,Money Laundering
-795,Market Manipulation
+795,"Money Laundering"
+795,"Market Manipulation"
 795,Stablecoin
 795,Wallet/Custody
 796,Exchange
-797,Money Laundering
+797,"Money Laundering"
 798,Privacy/Mixer
 798,Stablecoin
-798,ICO/Token Sale
-799,Money Laundering
+798,"ICO/Token Sale"
+799,"Money Laundering"
 799,NFT
 800,Fraud/Ponzi
-801,ICO/Token Sale
+801,"ICO/Token Sale"
 802,Other
-803,Money Laundering
+803,"Money Laundering"
 803,Stablecoin
 803,Exchange
 804,Fraud/Ponzi
@@ -1226,12 +1226,12 @@ filing_id,topic
 806,Mining
 807,DeFi
 807,Lending
-807,ICO/Token Sale
+807,"ICO/Token Sale"
 807,Exchange
 808,DAO
 809,Fraud/Ponzi
 810,Fraud/Ponzi
-810,ICO/Token Sale
+810,"ICO/Token Sale"
 810,Wallet/Custody
 810,Exchange
 811,Other
@@ -1241,18 +1241,18 @@ filing_id,topic
 814,Stablecoin
 814,Mining
 814,Exchange
-815,Money Laundering
+815,"Money Laundering"
 815,Stablecoin
 815,DeFi
 815,Lending
 815,Exchange
 816,Fraud/Ponzi
-816,Market Manipulation
+816,"Market Manipulation"
 816,NFT
 816,DAO
 816,DeFi
 816,Mining
-816,ICO/Token Sale
+816,"ICO/Token Sale"
 816,Exchange
 817,Other
 818,DAO
@@ -1260,7 +1260,7 @@ filing_id,topic
 818,DeFi
 818,Lending
 818,Exchange
-819,Money Laundering
+819,"Money Laundering"
 819,Privacy/Mixer
 819,Stablecoin
 819,DeFi
@@ -1273,13 +1273,13 @@ filing_id,topic
 822,Exchange
 823,Other
 824,Ransomware
-824,Money Laundering
+824,"Money Laundering"
 824,Stablecoin
 824,DeFi
-825,Market Manipulation
+825,"Market Manipulation"
 825,Mining
 826,Lending
-827,Money Laundering
+827,"Money Laundering"
 827,Stablecoin
 827,Exchange
 828,Fraud/Ponzi
@@ -1292,32 +1292,32 @@ filing_id,topic
 829,DAO
 829,Stablecoin
 829,Lending
-830,Money Laundering
+830,"Money Laundering"
 830,Privacy/Mixer
 830,Exchange
 831,Exchange
 832,Fraud/Ponzi
-832,Money Laundering
-832,Market Manipulation
+832,"Money Laundering"
+832,"Market Manipulation"
 832,NFT
 832,Lending
 833,Fraud/Ponzi
 833,Stablecoin
-833,ICO/Token Sale
+833,"ICO/Token Sale"
 833,Exchange
 834,NFT
 835,DeFi
 835,Exchange
 836,Other
 837,Fraud/Ponzi
-837,Market Manipulation
+837,"Market Manipulation"
 837,DeFi
-837,ICO/Token Sale
+837,"ICO/Token Sale"
 838,Fraud/Ponzi
 838,Mining
-838,ICO/Token Sale
+838,"ICO/Token Sale"
 838,Exchange
-839,Market Manipulation
+839,"Market Manipulation"
 839,Stablecoin
 839,DeFi
 839,Exchange
@@ -1325,21 +1325,21 @@ filing_id,topic
 841,Other
 842,Lending
 843,Exchange
-844,Money Laundering
+844,"Money Laundering"
 844,Stablecoin
 844,Exchange
 845,Other
 846,Fraud/Ponzi
-846,ICO/Token Sale
+846,"ICO/Token Sale"
 847,Fraud/Ponzi
 848,DAO
-849,ICO/Token Sale
-850,Money Laundering
+849,"ICO/Token Sale"
+850,"Money Laundering"
 850,NFT
 850,DeFi
 850,Exchange
 851,Other
-852,Money Laundering
+852,"Money Laundering"
 853,Stablecoin
 853,DeFi
 854,Stablecoin
@@ -1347,20 +1347,20 @@ filing_id,topic
 854,Exchange
 855,Stablecoin
 855,Lending
-856,Money Laundering
+856,"Money Laundering"
 856,Stablecoin
 856,Exchange
-857,Money Laundering
+857,"Money Laundering"
 857,Stablecoin
 857,Exchange
 858,Stablecoin
 858,Exchange
 859,Fraud/Ponzi
-859,Money Laundering
-859,Market Manipulation
+859,"Money Laundering"
+859,"Market Manipulation"
 859,DAO
 859,DeFi
-859,ICO/Token Sale
+859,"ICO/Token Sale"
 859,Exchange
 860,NFT
 860,DAO
@@ -1368,10 +1368,10 @@ filing_id,topic
 860,DeFi
 860,Lending
 860,Staking
-860,ICO/Token Sale
+860,"ICO/Token Sale"
 860,Exchange
 861,Other
-862,Insider Trading
+862,"Insider Trading"
 863,Other
 864,Fraud/Ponzi
 865,Exchange
@@ -1380,7 +1380,7 @@ filing_id,topic
 868,Exchange
 869,Fraud/Ponzi
 869,Ransomware
-869,Money Laundering
+869,"Money Laundering"
 869,Privacy/Mixer
 870,Fraud/Ponzi
 870,Lending
@@ -1388,11 +1388,11 @@ filing_id,topic
 871,Lending
 872,DAO
 873,Exchange
-874,ICO/Token Sale
+874,"ICO/Token Sale"
 875,Fraud/Ponzi
 875,Lending
 875,Mining
-875,ICO/Token Sale
+875,"ICO/Token Sale"
 875,Exchange
 876,Fraud/Ponzi
 877,Stablecoin
@@ -1400,126 +1400,126 @@ filing_id,topic
 878,Other
 879,Fraud/Ponzi
 879,Lending
-879,ICO/Token Sale
+879,"ICO/Token Sale"
 880,Privacy/Mixer
 880,DAO
 880,Stablecoin
 880,Exchange
-881,Insider Trading
+881,"Insider Trading"
 882,DAO
 882,Stablecoin
 882,DeFi
-882,ICO/Token Sale
+882,"ICO/Token Sale"
 883,Fraud/Ponzi
 883,DAO
-883,ICO/Token Sale
-884,Money Laundering
+883,"ICO/Token Sale"
+884,"Money Laundering"
 884,Stablecoin
 884,Lending
 885,Exchange
 886,Lending
-888,Money Laundering
+888,"Money Laundering"
 888,Stablecoin
 888,Lending
 889,Fraud/Ponzi
-889,Insider Trading
+889,"Insider Trading"
 889,Exchange
-891,ICO/Token Sale
+891,"ICO/Token Sale"
 892,Exchange
 893,Fraud/Ponzi
-893,Insider Trading
-893,Market Manipulation
+893,"Insider Trading"
+893,"Market Manipulation"
 893,Exchange
 894,Fraud/Ponzi
-894,Market Manipulation
+894,"Market Manipulation"
 894,Exchange
 895,NFT
-896,Money Laundering
+896,"Money Laundering"
 897,DAO
-897,ICO/Token Sale
-898,Market Manipulation
+897,"ICO/Token Sale"
+898,"Market Manipulation"
 898,Exchange
 899,Fraud/Ponzi
-899,ICO/Token Sale
+899,"ICO/Token Sale"
 899,Exchange
 900,Fraud/Ponzi
-900,Market Manipulation
-900,ICO/Token Sale
+900,"Market Manipulation"
+900,"ICO/Token Sale"
 900,Exchange
 901,Other
 902,Lending
-902,ICO/Token Sale
+902,"ICO/Token Sale"
 902,Exchange
-903,Money Laundering
+903,"Money Laundering"
 904,Exchange
 905,Other
-906,Money Laundering
+906,"Money Laundering"
 906,Privacy/Mixer
 907,Other
 908,Other
 909,DeFi
 910,Fraud/Ponzi
-910,Money Laundering
-910,Market Manipulation
+910,"Money Laundering"
+910,"Market Manipulation"
 911,Fraud/Ponzi
 911,Exchange
-912,Money Laundering
-912,Market Manipulation
+912,"Money Laundering"
+912,"Market Manipulation"
 912,Stablecoin
 912,Exchange
 913,Mining
 914,Exchange
 915,DAO
-915,ICO/Token Sale
-916,ICO/Token Sale
+915,"ICO/Token Sale"
+916,"ICO/Token Sale"
 916,Exchange
-917,Money Laundering
-917,Market Manipulation
+917,"Money Laundering"
+917,"Market Manipulation"
 917,DAO
-917,ICO/Token Sale
+917,"ICO/Token Sale"
 917,Exchange
 918,Other
 919,Stablecoin
 919,DeFi
 919,Lending
 920,Fraud/Ponzi
-920,Money Laundering
+920,"Money Laundering"
 921,Fraud/Ponzi
 921,DAO
 921,Mining
-921,ICO/Token Sale
+921,"ICO/Token Sale"
 921,Exchange
-922,ICO/Token Sale
+922,"ICO/Token Sale"
 923,DAO
-923,ICO/Token Sale
+923,"ICO/Token Sale"
 924,Fraud/Ponzi
 925,Other
-926,ICO/Token Sale
+926,"ICO/Token Sale"
 927,Exchange
 928,Wallet/Custody
 929,Exchange
 930,DAO
-930,ICO/Token Sale
-931,Money Laundering
+930,"ICO/Token Sale"
+931,"Money Laundering"
 931,DAO
-931,ICO/Token Sale
+931,"ICO/Token Sale"
 931,Wallet/Custody
-932,ICO/Token Sale
+932,"ICO/Token Sale"
 932,Exchange
-933,Money Laundering
-933,Insider Trading
+933,"Money Laundering"
+933,"Insider Trading"
 933,DAO
 933,Wallet/Custody
 933,Exchange
 934,Fraud/Ponzi
 934,Ransomware
-934,Money Laundering
+934,"Money Laundering"
 934,Privacy/Mixer
 934,Stablecoin
 934,Wallet/Custody
 935,Fraud/Ponzi
 935,Privacy/Mixer
-935,ICO/Token Sale
+935,"ICO/Token Sale"
 935,Exchange
 936,Other
 937,Other
@@ -1531,44 +1531,44 @@ filing_id,topic
 943,Wallet/Custody
 944,Other
 945,Ransomware
-945,Money Laundering
+945,"Money Laundering"
 945,Privacy/Mixer
 945,Exchange
-946,Market Manipulation
+946,"Market Manipulation"
 946,DAO
-946,ICO/Token Sale
+946,"ICO/Token Sale"
 946,Wallet/Custody
 946,Exchange
 947,Fraud/Ponzi
 947,Ransomware
-947,Money Laundering
-947,Market Manipulation
+947,"Money Laundering"
+947,"Market Manipulation"
 947,Privacy/Mixer
 947,DAO
 947,Stablecoin
 947,DeFi
 947,Mining
-947,ICO/Token Sale
+947,"ICO/Token Sale"
 947,Wallet/Custody
 947,Exchange
-948,Money Laundering
-948,Market Manipulation
+948,"Money Laundering"
+948,"Market Manipulation"
 948,Exchange
 949,Other
 950,DAO
 950,Lending
-950,ICO/Token Sale
+950,"ICO/Token Sale"
 951,Stablecoin
-951,ICO/Token Sale
+951,"ICO/Token Sale"
 951,Exchange
 952,Fraud/Ponzi
 953,Fraud/Ponzi
 953,DAO
-953,ICO/Token Sale
+953,"ICO/Token Sale"
 953,Exchange
 954,Fraud/Ponzi
-954,Money Laundering
-954,ICO/Token Sale
+954,"Money Laundering"
+954,"ICO/Token Sale"
 955,Other
 956,Other
 957,Fraud/Ponzi
@@ -1576,78 +1576,78 @@ filing_id,topic
 958,Stablecoin
 959,DAO
 959,Stablecoin
-959,ICO/Token Sale
+959,"ICO/Token Sale"
 959,Exchange
-960,Money Laundering
-961,Money Laundering
+960,"Money Laundering"
+961,"Money Laundering"
 962,Fraud/Ponzi
-962,Money Laundering
+962,"Money Laundering"
 962,Stablecoin
 962,Wallet/Custody
 962,Exchange
 963,Other
 964,Exchange
 965,Fraud/Ponzi
-965,Money Laundering
+965,"Money Laundering"
 965,DeFi
 965,Lending
-965,ICO/Token Sale
+965,"ICO/Token Sale"
 966,Exchange
 968,Other
 969,Other
 970,Other
 971,Ransomware
-971,Money Laundering
+971,"Money Laundering"
 971,NFT
 971,DAO
 971,Stablecoin
 971,DeFi
 971,Lending
 971,Staking
-971,ICO/Token Sale
+971,"ICO/Token Sale"
 971,Exchange
 972,Exchange
 973,Other
 974,Fraud/Ponzi
-974,Money Laundering
-974,Market Manipulation
+974,"Money Laundering"
+974,"Market Manipulation"
 974,DAO
-974,ICO/Token Sale
+974,"ICO/Token Sale"
 975,Other
-976,Money Laundering
+976,"Money Laundering"
 976,Privacy/Mixer
 977,Other
 978,Fraud/Ponzi
-978,Money Laundering
+978,"Money Laundering"
 978,Mining
-978,ICO/Token Sale
+978,"ICO/Token Sale"
 978,Exchange
-979,ICO/Token Sale
-980,Money Laundering
-980,ICO/Token Sale
+979,"ICO/Token Sale"
+980,"Money Laundering"
+980,"ICO/Token Sale"
 981,Other
 982,Fraud/Ponzi
 982,Wallet/Custody
 982,Exchange
-983,Money Laundering
-983,Market Manipulation
-983,ICO/Token Sale
+983,"Money Laundering"
+983,"Market Manipulation"
+983,"ICO/Token Sale"
 984,Mining
 985,Other
 986,DAO
-986,ICO/Token Sale
+986,"ICO/Token Sale"
 987,Other
 988,Other
 989,Fraud/Ponzi
 989,Mining
 989,Exchange
 990,Other
-991,Insider Trading
+991,"Insider Trading"
 991,Exchange
 992,Fraud/Ponzi
 992,Privacy/Mixer
 992,DAO
-992,ICO/Token Sale
+992,"ICO/Token Sale"
 992,Exchange
 993,Other
 994,Fraud/Ponzi
@@ -1669,18 +1669,18 @@ filing_id,topic
 1010,Other
 1011,Other
 1012,Fraud/Ponzi
-1012,ICO/Token Sale
+1012,"ICO/Token Sale"
 1012,Exchange
 1013,Other
 1014,Other
 1015,Other
-1016,Money Laundering
+1016,"Money Laundering"
 1017,Other
 1018,DAO
-1018,ICO/Token Sale
+1018,"ICO/Token Sale"
 1018,Exchange
 1019,DAO
-1019,ICO/Token Sale
+1019,"ICO/Token Sale"
 1020,Fraud/Ponzi
 1021,Fraud/Ponzi
 1021,Stablecoin
@@ -1689,98 +1689,98 @@ filing_id,topic
 1023,Fraud/Ponzi
 1023,Exchange
 1024,Fraud/Ponzi
-1024,Money Laundering
+1024,"Money Laundering"
 1024,Lending
-1024,ICO/Token Sale
+1024,"ICO/Token Sale"
 1024,Exchange
-1025,Money Laundering
+1025,"Money Laundering"
 1026,Fraud/Ponzi
 1026,DAO
-1026,ICO/Token Sale
+1026,"ICO/Token Sale"
 1026,Exchange
 1027,Fraud/Ponzi
-1027,ICO/Token Sale
+1027,"ICO/Token Sale"
 1027,Exchange
-1028,ICO/Token Sale
+1028,"ICO/Token Sale"
 1029,Other
 1030,Other
-1031,Market Manipulation
+1031,"Market Manipulation"
 1031,Stablecoin
 1031,Exchange
-1032,Market Manipulation
+1032,"Market Manipulation"
 1032,Stablecoin
 1032,Exchange
 1033,Other
 1034,DAO
-1034,ICO/Token Sale
-1035,Money Laundering
+1034,"ICO/Token Sale"
+1035,"Money Laundering"
 1035,Exchange
 1036,Fraud/Ponzi
-1036,ICO/Token Sale
+1036,"ICO/Token Sale"
 1037,Other
 1038,Fraud/Ponzi
 1038,Mining
 1039,Other
 1040,Exchange
-1041,Market Manipulation
+1041,"Market Manipulation"
 1041,Stablecoin
 1041,Exchange
-1042,Money Laundering
+1042,"Money Laundering"
 1042,Staking
 1043,Exchange
 1044,Fraud/Ponzi
-1044,ICO/Token Sale
+1044,"ICO/Token Sale"
 1045,Privacy/Mixer
-1045,ICO/Token Sale
+1045,"ICO/Token Sale"
 1045,Wallet/Custody
 1045,Exchange
 1046,Fraud/Ponzi
-1046,Money Laundering
-1046,Market Manipulation
+1046,"Money Laundering"
+1046,"Market Manipulation"
 1046,DAO
 1046,Stablecoin
 1046,DeFi
-1046,ICO/Token Sale
+1046,"ICO/Token Sale"
 1046,Exchange
 1047,Exchange
-1049,Money Laundering
-1049,Market Manipulation
+1049,"Money Laundering"
+1049,"Market Manipulation"
 1049,Exchange
 1050,Exchange
 1051,Other
 1052,Other
 1053,Mining
 1054,Other
-1055,Money Laundering
-1055,Insider Trading
-1055,Market Manipulation
-1055,ICO/Token Sale
+1055,"Money Laundering"
+1055,"Insider Trading"
+1055,"Market Manipulation"
+1055,"ICO/Token Sale"
 1055,Exchange
-1056,Money Laundering
-1056,ICO/Token Sale
+1056,"Money Laundering"
+1056,"ICO/Token Sale"
 1056,Exchange
-1058,Money Laundering
-1058,ICO/Token Sale
+1058,"Money Laundering"
+1058,"ICO/Token Sale"
 1058,Exchange
-1059,Money Laundering
+1059,"Money Laundering"
 1059,DAO
-1059,ICO/Token Sale
+1059,"ICO/Token Sale"
 1059,Exchange
 1060,Fraud/Ponzi
-1061,ICO/Token Sale
+1061,"ICO/Token Sale"
 1061,Exchange
 1062,Fraud/Ponzi
-1062,Money Laundering
-1062,Market Manipulation
+1062,"Money Laundering"
+1062,"Market Manipulation"
 1062,Privacy/Mixer
 1062,Stablecoin
 1062,Lending
 1062,Mining
-1062,ICO/Token Sale
+1062,"ICO/Token Sale"
 1062,Exchange
 1063,Other
 1064,DAO
-1064,ICO/Token Sale
+1064,"ICO/Token Sale"
 1065,Fraud/Ponzi
 1065,Mining
 1065,Wallet/Custody
@@ -1788,79 +1788,79 @@ filing_id,topic
 1066,Exchange
 1067,Fraud/Ponzi
 1067,DAO
-1067,ICO/Token Sale
+1067,"ICO/Token Sale"
 1068,Other
 1069,Fraud/Ponzi
-1069,Market Manipulation
+1069,"Market Manipulation"
 1069,DAO
-1069,ICO/Token Sale
+1069,"ICO/Token Sale"
 1069,Exchange
-1070,ICO/Token Sale
+1070,"ICO/Token Sale"
 1071,Fraud/Ponzi
 1071,Privacy/Mixer
 1071,DAO
-1071,ICO/Token Sale
+1071,"ICO/Token Sale"
 1071,Exchange
-1072,Money Laundering
-1072,ICO/Token Sale
+1072,"Money Laundering"
+1072,"ICO/Token Sale"
 1073,Fraud/Ponzi
-1073,ICO/Token Sale
+1073,"ICO/Token Sale"
 1074,DAO
 1074,Mining
 1074,Exchange
 1075,Fraud/Ponzi
 1075,NFT
-1075,ICO/Token Sale
+1075,"ICO/Token Sale"
 1076,Exchange
 1077,Other
 1078,Fraud/Ponzi
 1078,Exchange
-1079,ICO/Token Sale
+1079,"ICO/Token Sale"
 1080,Other
-1081,Money Laundering
+1081,"Money Laundering"
 1082,Exchange
-1083,ICO/Token Sale
+1083,"ICO/Token Sale"
 1084,Fraud/Ponzi
-1084,Market Manipulation
+1084,"Market Manipulation"
 1084,DAO
-1084,ICO/Token Sale
+1084,"ICO/Token Sale"
 1084,Exchange
 1085,Lending
-1085,ICO/Token Sale
+1085,"ICO/Token Sale"
 1086,Fraud/Ponzi
 1086,Exchange
 1087,Staking
-1087,ICO/Token Sale
+1087,"ICO/Token Sale"
 1087,Exchange
-1088,ICO/Token Sale
+1088,"ICO/Token Sale"
 1089,Other
-1090,Money Laundering
+1090,"Money Laundering"
 1090,Wallet/Custody
 1091,Ransomware
-1091,Money Laundering
+1091,"Money Laundering"
 1092,Wallet/Custody
-1093,ICO/Token Sale
+1093,"ICO/Token Sale"
 1094,Privacy/Mixer
 1094,Stablecoin
 1094,Staking
 1094,Mining
-1094,ICO/Token Sale
+1094,"ICO/Token Sale"
 1094,Exchange
 1095,Fraud/Ponzi
-1095,ICO/Token Sale
+1095,"ICO/Token Sale"
 1095,Wallet/Custody
-1096,Money Laundering
+1096,"Money Laundering"
 1096,Wallet/Custody
 1096,Exchange
-1097,Money Laundering
+1097,"Money Laundering"
 1097,Wallet/Custody
 1097,Exchange
 1098,Fraud/Ponzi
-1098,Market Manipulation
+1098,"Market Manipulation"
 1098,DAO
-1098,ICO/Token Sale
+1098,"ICO/Token Sale"
 1098,Exchange
-1099,Money Laundering
+1099,"Money Laundering"
 1100,Other
 1101,Other
 1102,Fraud/Ponzi
@@ -1872,7 +1872,7 @@ filing_id,topic
 1105,Fraud/Ponzi
 1105,Exchange
 1106,DAO
-1106,ICO/Token Sale
+1106,"ICO/Token Sale"
 1106,Exchange
 1107,Exchange
 1108,Fraud/Ponzi
@@ -1881,137 +1881,137 @@ filing_id,topic
 1109,Exchange
 1110,Fraud/Ponzi
 1110,Ransomware
-1110,Money Laundering
+1110,"Money Laundering"
 1110,Privacy/Mixer
 1110,Exchange
 1111,Other
 1112,Fraud/Ponzi
-1113,Money Laundering
+1113,"Money Laundering"
 1113,Privacy/Mixer
 1113,DAO
 1113,Mining
-1113,ICO/Token Sale
+1113,"ICO/Token Sale"
 1113,Wallet/Custody
 1113,Exchange
 1114,Fraud/Ponzi
-1114,Money Laundering
+1114,"Money Laundering"
 1114,DAO
 1114,Mining
-1114,ICO/Token Sale
+1114,"ICO/Token Sale"
 1114,Exchange
-1115,ICO/Token Sale
+1115,"ICO/Token Sale"
 1115,Exchange
 1116,Privacy/Mixer
 1116,Stablecoin
-1117,Money Laundering
+1117,"Money Laundering"
 1118,Fraud/Ponzi
 1118,Lending
-1118,ICO/Token Sale
+1118,"ICO/Token Sale"
 1119,Other
 1120,Fraud/Ponzi
-1120,ICO/Token Sale
+1120,"ICO/Token Sale"
 1120,Wallet/Custody
 1120,Exchange
 1121,Stablecoin
 1121,Exchange
 1122,Lending
-1122,ICO/Token Sale
+1122,"ICO/Token Sale"
 1122,Exchange
 1123,Fraud/Ponzi
-1123,Money Laundering
+1123,"Money Laundering"
 1123,Exchange
-1124,Money Laundering
-1125,Money Laundering
-1126,Money Laundering
+1124,"Money Laundering"
+1125,"Money Laundering"
+1126,"Money Laundering"
 1127,Other
 1128,Exchange
 1129,DAO
-1129,ICO/Token Sale
+1129,"ICO/Token Sale"
 1130,Other
 1131,Other
 1132,Fraud/Ponzi
-1133,ICO/Token Sale
+1133,"ICO/Token Sale"
 1134,Other
 1135,DAO
-1135,ICO/Token Sale
+1135,"ICO/Token Sale"
 1136,Fraud/Ponzi
 1137,Other
-1138,Money Laundering
+1138,"Money Laundering"
 1139,Other
 1140,DAO
-1140,ICO/Token Sale
+1140,"ICO/Token Sale"
 1141,Mining
 1142,Fraud/Ponzi
 1142,Lending
 1142,Staking
-1142,ICO/Token Sale
+1142,"ICO/Token Sale"
 1142,Exchange
 1143,Fraud/Ponzi
-1144,ICO/Token Sale
+1144,"ICO/Token Sale"
 1145,Stablecoin
 1145,Exchange
 1146,Fraud/Ponzi
 1146,Exchange
-1147,ICO/Token Sale
+1147,"ICO/Token Sale"
 1148,Other
 1149,Exchange
 1150,Mining
-1151,Money Laundering
+1151,"Money Laundering"
 1151,Exchange
 1152,Fraud/Ponzi
-1152,ICO/Token Sale
+1152,"ICO/Token Sale"
 1153,Fraud/Ponzi
-1153,ICO/Token Sale
+1153,"ICO/Token Sale"
 1153,Exchange
-1154,Money Laundering
+1154,"Money Laundering"
 1154,Mining
 1155,Fraud/Ponzi
 1156,Fraud/Ponzi
-1156,ICO/Token Sale
+1156,"ICO/Token Sale"
 1157,Other
-1158,Money Laundering
-1158,Market Manipulation
+1158,"Money Laundering"
+1158,"Market Manipulation"
 1158,Lending
 1158,Mining
 1158,Exchange
 1159,Mining
 1160,Other
 1161,DAO
-1161,ICO/Token Sale
+1161,"ICO/Token Sale"
 1162,DAO
-1162,ICO/Token Sale
+1162,"ICO/Token Sale"
 1163,Mining
 1164,Fraud/Ponzi
 1164,Privacy/Mixer
 1164,Mining
-1164,ICO/Token Sale
+1164,"ICO/Token Sale"
 1164,Exchange
-1165,ICO/Token Sale
+1165,"ICO/Token Sale"
 1165,Exchange
 1166,Fraud/Ponzi
-1166,ICO/Token Sale
+1166,"ICO/Token Sale"
 1167,Other
 1168,DAO
-1168,ICO/Token Sale
+1168,"ICO/Token Sale"
 1168,Exchange
 1169,Privacy/Mixer
 1169,DAO
-1169,ICO/Token Sale
+1169,"ICO/Token Sale"
 1169,Exchange
 1170,DAO
-1170,ICO/Token Sale
+1170,"ICO/Token Sale"
 1170,Exchange
 1171,Fraud/Ponzi
-1171,Insider Trading
-1171,Market Manipulation
+1171,"Insider Trading"
+1171,"Market Manipulation"
 1171,Exchange
 1172,DAO
-1172,ICO/Token Sale
+1172,"ICO/Token Sale"
 1172,Exchange
 1173,Other
 1174,Exchange
 1175,Fraud/Ponzi
-1175,Market Manipulation
+1175,"Market Manipulation"
 1175,Mining
 1175,Exchange
 1176,Other
@@ -2021,140 +2021,140 @@ filing_id,topic
 1178,Mining
 1178,Wallet/Custody
 1179,Mining
-1180,Insider Trading
-1181,Market Manipulation
-1181,ICO/Token Sale
+1180,"Insider Trading"
+1181,"Market Manipulation"
+1181,"ICO/Token Sale"
 1181,Exchange
 1182,Other
 1183,Fraud/Ponzi
-1183,Insider Trading
+1183,"Insider Trading"
 1183,Mining
 1183,Exchange
 1184,Other
 1185,Other
 1186,Privacy/Mixer
 1186,Exchange
-1187,ICO/Token Sale
+1187,"ICO/Token Sale"
 1188,Other
-1189,ICO/Token Sale
-1190,ICO/Token Sale
+1189,"ICO/Token Sale"
+1190,"ICO/Token Sale"
 1190,Exchange
 1191,Fraud/Ponzi
-1191,ICO/Token Sale
+1191,"ICO/Token Sale"
 1191,Exchange
-1192,Market Manipulation
-1192,ICO/Token Sale
+1192,"Market Manipulation"
+1192,"ICO/Token Sale"
 1193,Fraud/Ponzi
 1193,Stablecoin
 1193,DeFi
-1193,ICO/Token Sale
+1193,"ICO/Token Sale"
 1193,Exchange
 1194,Exchange
 1195,Mining
-1195,ICO/Token Sale
+1195,"ICO/Token Sale"
 1196,Fraud/Ponzi
-1196,Market Manipulation
+1196,"Market Manipulation"
 1196,Mining
 1196,Exchange
 1197,Fraud/Ponzi
 1197,Exchange
 1198,Other
-1199,Money Laundering
+1199,"Money Laundering"
 1199,Exchange
-1200,Money Laundering
+1200,"Money Laundering"
 1201,Fraud/Ponzi
-1201,Insider Trading
+1201,"Insider Trading"
 1201,DAO
-1201,ICO/Token Sale
+1201,"ICO/Token Sale"
 1202,Other
 1203,Fraud/Ponzi
-1203,ICO/Token Sale
+1203,"ICO/Token Sale"
 1203,Wallet/Custody
 1204,Other
-1205,ICO/Token Sale
+1205,"ICO/Token Sale"
 1205,Exchange
 1206,Fraud/Ponzi
-1206,Money Laundering
-1206,Market Manipulation
+1206,"Money Laundering"
+1206,"Market Manipulation"
 1206,Privacy/Mixer
 1206,DeFi
 1206,Wallet/Custody
 1206,Exchange
 1207,Fraud/Ponzi
-1207,ICO/Token Sale
+1207,"ICO/Token Sale"
 1208,Exchange
 1209,DAO
-1209,ICO/Token Sale
+1209,"ICO/Token Sale"
 1210,Other
 1211,Other
-1212,Money Laundering
-1212,Market Manipulation
+1212,"Money Laundering"
+1212,"Market Manipulation"
 1212,Stablecoin
 1212,Exchange
 1213,Exchange
 1214,Fraud/Ponzi
-1214,Market Manipulation
+1214,"Market Manipulation"
 1215,Privacy/Mixer
 1215,Exchange
 1216,Fraud/Ponzi
-1216,ICO/Token Sale
-1217,ICO/Token Sale
+1216,"ICO/Token Sale"
+1217,"ICO/Token Sale"
 1217,Exchange
-1218,ICO/Token Sale
+1218,"ICO/Token Sale"
 1219,Fraud/Ponzi
-1219,ICO/Token Sale
+1219,"ICO/Token Sale"
 1220,Other
 1221,Fraud/Ponzi
-1222,Market Manipulation
+1222,"Market Manipulation"
 1222,DeFi
 1222,Exchange
-1223,Market Manipulation
+1223,"Market Manipulation"
 1223,DeFi
-1223,ICO/Token Sale
+1223,"ICO/Token Sale"
 1223,Exchange
 1224,Fraud/Ponzi
-1224,Money Laundering
-1224,Insider Trading
-1224,Market Manipulation
+1224,"Money Laundering"
+1224,"Insider Trading"
+1224,"Market Manipulation"
 1224,Stablecoin
 1224,DeFi
 1224,Mining
-1224,ICO/Token Sale
+1224,"ICO/Token Sale"
 1224,Exchange
-1225,Market Manipulation
+1225,"Market Manipulation"
 1225,DeFi
 1225,Exchange
 1226,Fraud/Ponzi
-1226,Money Laundering
-1226,Market Manipulation
+1226,"Money Laundering"
+1226,"Market Manipulation"
 1226,Exchange
-1227,Market Manipulation
+1227,"Market Manipulation"
 1227,DAO
 1227,DeFi
-1227,ICO/Token Sale
+1227,"ICO/Token Sale"
 1227,Exchange
 1228,DAO
 1228,Lending
-1228,ICO/Token Sale
+1228,"ICO/Token Sale"
 1228,Wallet/Custody
-1229,ICO/Token Sale
-1230,ICO/Token Sale
+1229,"ICO/Token Sale"
+1230,"ICO/Token Sale"
 1231,Ransomware
-1231,Money Laundering
-1231,ICO/Token Sale
+1231,"Money Laundering"
+1231,"ICO/Token Sale"
 1231,Exchange
-1232,Money Laundering
+1232,"Money Laundering"
 1232,Exchange
 1233,DAO
-1233,ICO/Token Sale
+1233,"ICO/Token Sale"
 1233,Exchange
-1234,ICO/Token Sale
+1234,"ICO/Token Sale"
 1235,Fraud/Ponzi
-1235,ICO/Token Sale
+1235,"ICO/Token Sale"
 1236,Other
-1237,Money Laundering
-1237,Insider Trading
-1237,Market Manipulation
+1237,"Money Laundering"
+1237,"Insider Trading"
+1237,"Market Manipulation"
 1237,Stablecoin
 1237,DeFi
 1237,Mining
@@ -2165,78 +2165,78 @@ filing_id,topic
 1240,Other
 1241,Fraud/Ponzi
 1241,DAO
-1241,ICO/Token Sale
+1241,"ICO/Token Sale"
 1242,Other
 1243,Other
 1244,Other
 1245,Other
 1246,Fraud/Ponzi
 1246,Exchange
-1247,Money Laundering
+1247,"Money Laundering"
 1247,DAO
-1247,ICO/Token Sale
+1247,"ICO/Token Sale"
 1247,Exchange
-1248,Money Laundering
-1248,Market Manipulation
-1248,ICO/Token Sale
+1248,"Money Laundering"
+1248,"Market Manipulation"
+1248,"ICO/Token Sale"
 1249,Other
-1250,ICO/Token Sale
+1250,"ICO/Token Sale"
 1250,Exchange
 1251,Fraud/Ponzi
 1251,Lending
 1251,Mining
-1251,ICO/Token Sale
-1252,ICO/Token Sale
+1251,"ICO/Token Sale"
+1252,"ICO/Token Sale"
 1253,Other
 1254,Fraud/Ponzi
-1254,ICO/Token Sale
+1254,"ICO/Token Sale"
 1255,Fraud/Ponzi
-1255,ICO/Token Sale
+1255,"ICO/Token Sale"
 1255,Exchange
 1256,Staking
-1256,ICO/Token Sale
+1256,"ICO/Token Sale"
 1257,Other
-1258,ICO/Token Sale
+1258,"ICO/Token Sale"
 1259,Lending
 1259,Staking
-1259,ICO/Token Sale
-1260,Money Laundering
-1260,Market Manipulation
+1259,"ICO/Token Sale"
+1260,"Money Laundering"
+1260,"Market Manipulation"
 1261,Mining
-1261,ICO/Token Sale
+1261,"ICO/Token Sale"
 1261,Exchange
 1262,Fraud/Ponzi
-1262,Insider Trading
-1262,Market Manipulation
+1262,"Insider Trading"
+1262,"Market Manipulation"
 1262,DAO
-1262,ICO/Token Sale
+1262,"ICO/Token Sale"
 1263,Fraud/Ponzi
 1264,Other
 1265,Fraud/Ponzi
-1265,ICO/Token Sale
-1266,ICO/Token Sale
+1265,"ICO/Token Sale"
+1266,"ICO/Token Sale"
 1267,Mining
 1268,Other
 1269,Exchange
-1270,ICO/Token Sale
+1270,"ICO/Token Sale"
 1270,Exchange
-1271,Money Laundering
+1271,"Money Laundering"
 1271,Stablecoin
 1271,Lending
 1271,Staking
-1271,ICO/Token Sale
+1271,"ICO/Token Sale"
 1271,Exchange
-1272,ICO/Token Sale
+1272,"ICO/Token Sale"
 1273,Exchange
-1274,ICO/Token Sale
+1274,"ICO/Token Sale"
 1275,Exchange
 1276,Mining
-1276,ICO/Token Sale
+1276,"ICO/Token Sale"
 1277,Exchange
-1278,ICO/Token Sale
+1278,"ICO/Token Sale"
 1278,Exchange
-1279,Money Laundering
-1279,Market Manipulation
+1279,"Money Laundering"
+1279,"Market Manipulation"
 1279,Exchange
 1280,Fraud/Ponzi
 1280,Exchange
@@ -2244,35 +2244,35 @@ filing_id,topic
 1282,Exchange
 1283,Other
 1284,Fraud/Ponzi
-1284,Insider Trading
+1284,"Insider Trading"
 1284,Exchange
 1285,Other
 1286,Other
 1287,Exchange
 1288,Exchange
 1289,Exchange
-1290,Money Laundering
+1290,"Money Laundering"
 1290,DAO
-1290,ICO/Token Sale
+1290,"ICO/Token Sale"
 1290,Exchange
 1291,Fraud/Ponzi
-1291,ICO/Token Sale
+1291,"ICO/Token Sale"
 1291,Exchange
 1292,Other
 1293,Fraud/Ponzi
-1293,Money Laundering
+1293,"Money Laundering"
 1293,Exchange
 1294,Exchange
-1295,ICO/Token Sale
-1296,ICO/Token Sale
-1297,ICO/Token Sale
-1298,ICO/Token Sale
-1299,ICO/Token Sale
+1295,"ICO/Token Sale"
+1296,"ICO/Token Sale"
+1297,"ICO/Token Sale"
+1298,"ICO/Token Sale"
+1299,"ICO/Token Sale"
 1300,Other
 1301,Exchange
-1302,Money Laundering
+1302,"Money Laundering"
 1302,Mining
-1302,ICO/Token Sale
+1302,"ICO/Token Sale"
 1302,Exchange
 1303,Other
 1304,Ransomware
@@ -2282,16 +2282,16 @@ filing_id,topic
 1305,Mining
 1306,Staking
 1306,Mining
-1306,ICO/Token Sale
-1307,Insider Trading
+1306,"ICO/Token Sale"
+1307,"Insider Trading"
 1307,DAO
-1307,ICO/Token Sale
+1307,"ICO/Token Sale"
 1307,Wallet/Custody
 1307,Exchange
-1308,ICO/Token Sale
+1308,"ICO/Token Sale"
 1308,Exchange
-1309,Insider Trading
-1309,Market Manipulation
+1309,"Insider Trading"
+1309,"Market Manipulation"
 1309,Wallet/Custody
 1309,Exchange
 1310,Other
@@ -2299,41 +2299,41 @@ filing_id,topic
 1311,Mining
 1311,Exchange
 1312,Fraud/Ponzi
-1312,Insider Trading
-1312,Market Manipulation
+1312,"Insider Trading"
+1312,"Market Manipulation"
 1313,Other
 1315,Fraud/Ponzi
 1315,Mining
 1315,Exchange
 1316,Fraud/Ponzi
-1316,Money Laundering
-1316,Market Manipulation
-1316,ICO/Token Sale
+1316,"Money Laundering"
+1316,"Market Manipulation"
+1316,"ICO/Token Sale"
 1316,Exchange
 1317,Other
 1319,Other
-1320,ICO/Token Sale
+1320,"ICO/Token Sale"
 1322,Other
 1323,Fraud/Ponzi
 1323,Mining
 1323,Exchange
-1324,Money Laundering
+1324,"Money Laundering"
 1324,Mining
-1324,ICO/Token Sale
+1324,"ICO/Token Sale"
 1325,Exchange
 1326,Fraud/Ponzi
 1326,Lending
 1326,Staking
 1326,Mining
-1326,ICO/Token Sale
+1326,"ICO/Token Sale"
 1326,Exchange
 1327,Other
 1328,Fraud/Ponzi
-1328,Money Laundering
-1328,Market Manipulation
+1328,"Money Laundering"
+1328,"Market Manipulation"
 1328,DAO
 1328,Mining
-1328,ICO/Token Sale
+1328,"ICO/Token Sale"
 1328,Wallet/Custody
 1328,Exchange
 1329,Exchange
@@ -2342,174 +2342,174 @@ filing_id,topic
 1331,Other
 1332,Privacy/Mixer
 1332,DAO
-1332,ICO/Token Sale
+1332,"ICO/Token Sale"
 1332,Exchange
 1333,Fraud/Ponzi
 1333,Lending
 1333,Exchange
-1334,ICO/Token Sale
-1335,ICO/Token Sale
+1334,"ICO/Token Sale"
+1335,"ICO/Token Sale"
 1336,Other
 1337,Fraud/Ponzi
-1338,ICO/Token Sale
-1339,ICO/Token Sale
+1338,"ICO/Token Sale"
+1339,"ICO/Token Sale"
 1339,Exchange
 1340,Other
-1341,ICO/Token Sale
+1341,"ICO/Token Sale"
 1342,Other
 1344,Fraud/Ponzi
 1344,Exchange
-1345,ICO/Token Sale
+1345,"ICO/Token Sale"
 1345,Wallet/Custody
 1345,Exchange
 1346,Fraud/Ponzi
-1346,Insider Trading
-1346,ICO/Token Sale
+1346,"Insider Trading"
+1346,"ICO/Token Sale"
 1347,Fraud/Ponzi
-1348,ICO/Token Sale
+1348,"ICO/Token Sale"
 1349,Other
 1350,Fraud/Ponzi
-1350,Money Laundering
-1350,Insider Trading
-1350,Market Manipulation
-1350,ICO/Token Sale
+1350,"Money Laundering"
+1350,"Insider Trading"
+1350,"Market Manipulation"
+1350,"ICO/Token Sale"
 1351,Other
 1352,Lending
 1352,Staking
-1352,ICO/Token Sale
+1352,"ICO/Token Sale"
 1353,Fraud/Ponzi
-1353,Money Laundering
-1353,Market Manipulation
-1353,ICO/Token Sale
+1353,"Money Laundering"
+1353,"Market Manipulation"
+1353,"ICO/Token Sale"
 1353,Exchange
 1354,Fraud/Ponzi
 1354,Exchange
 1355,Fraud/Ponzi
 1355,DeFi
-1355,ICO/Token Sale
+1355,"ICO/Token Sale"
 1355,Exchange
 1356,Fraud/Ponzi
-1356,Money Laundering
-1356,Market Manipulation
+1356,"Money Laundering"
+1356,"Market Manipulation"
 1356,DAO
 1356,DeFi
-1356,ICO/Token Sale
+1356,"ICO/Token Sale"
 1356,Exchange
-1357,Market Manipulation
-1357,ICO/Token Sale
+1357,"Market Manipulation"
+1357,"ICO/Token Sale"
 1358,Fraud/Ponzi
 1358,DAO
 1358,Lending
-1358,ICO/Token Sale
+1358,"ICO/Token Sale"
 1359,DAO
 1359,Lending
 1359,Staking
 1359,Mining
-1359,ICO/Token Sale
+1359,"ICO/Token Sale"
 1360,Fraud/Ponzi
-1360,Money Laundering
-1360,Market Manipulation
-1360,ICO/Token Sale
+1360,"Money Laundering"
+1360,"Market Manipulation"
+1360,"ICO/Token Sale"
 1360,Exchange
 1361,DAO
-1361,ICO/Token Sale
+1361,"ICO/Token Sale"
 1362,Other
 1363,Fraud/Ponzi
-1363,ICO/Token Sale
+1363,"ICO/Token Sale"
 1363,Exchange
-1364,Market Manipulation
+1364,"Market Manipulation"
 1364,DeFi
-1365,Money Laundering
+1365,"Money Laundering"
 1366,Privacy/Mixer
 1366,DAO
 1366,Lending
-1366,ICO/Token Sale
+1366,"ICO/Token Sale"
 1366,Exchange
 1367,Lending
-1367,ICO/Token Sale
+1367,"ICO/Token Sale"
 1367,Exchange
 1368,DAO
 1368,Lending
-1368,ICO/Token Sale
+1368,"ICO/Token Sale"
 1368,Exchange
-1369,ICO/Token Sale
+1369,"ICO/Token Sale"
 1369,Exchange
 1370,DAO
-1370,ICO/Token Sale
-1371,Market Manipulation
+1370,"ICO/Token Sale"
+1371,"Market Manipulation"
 1371,Exchange
-1372,ICO/Token Sale
+1372,"ICO/Token Sale"
 1373,Lending
-1373,ICO/Token Sale
+1373,"ICO/Token Sale"
 1373,Exchange
 1374,Other
 1375,Fraud/Ponzi
-1375,Money Laundering
-1375,Market Manipulation
+1375,"Money Laundering"
+1375,"Market Manipulation"
 1375,DAO
 1375,Staking
-1375,ICO/Token Sale
+1375,"ICO/Token Sale"
 1376,Fraud/Ponzi
-1377,Money Laundering
-1377,ICO/Token Sale
+1377,"Money Laundering"
+1377,"ICO/Token Sale"
 1378,Fraud/Ponzi
-1378,ICO/Token Sale
+1378,"ICO/Token Sale"
 1379,Fraud/Ponzi
 1380,Other
-1381,Money Laundering
+1381,"Money Laundering"
 1381,DAO
 1381,Mining
-1381,ICO/Token Sale
+1381,"ICO/Token Sale"
 1381,Exchange
-1382,Market Manipulation
-1382,ICO/Token Sale
+1382,"Market Manipulation"
+1382,"ICO/Token Sale"
 1383,Other
-1384,ICO/Token Sale
-1385,ICO/Token Sale
+1384,"ICO/Token Sale"
+1385,"ICO/Token Sale"
 1386,Fraud/Ponzi
 1386,DAO
-1386,ICO/Token Sale
+1386,"ICO/Token Sale"
 1386,Exchange
 1387,Other
 1388,Other
 1389,Fraud/Ponzi
 1389,Exchange
 1390,Fraud/Ponzi
-1391,Money Laundering
+1391,"Money Laundering"
 1392,Other
 1393,Exchange
 1394,Ransomware
-1394,Money Laundering
+1394,"Money Laundering"
 1394,Exchange
 1395,Fraud/Ponzi
-1395,Money Laundering
-1395,Market Manipulation
+1395,"Money Laundering"
+1395,"Market Manipulation"
 1395,Wallet/Custody
 1395,Exchange
 1396,Fraud/Ponzi
 1396,Exchange
 1397,Lending
 1398,Fraud/Ponzi
-1398,Market Manipulation
+1398,"Market Manipulation"
 1398,Lending
 1398,Mining
-1398,ICO/Token Sale
+1398,"ICO/Token Sale"
 1399,Exchange
-1400,Money Laundering
+1400,"Money Laundering"
 1401,Fraud/Ponzi
 1401,Mining
 1402,Exchange
-1403,Market Manipulation
+1403,"Market Manipulation"
 1403,Exchange
 1404,Exchange
-1405,Money Laundering
+1405,"Money Laundering"
 1406,Other
 1407,Other
-1408,Money Laundering
+1408,"Money Laundering"
 1409,Other
 1410,Mining
 1410,Exchange
-1412,Money Laundering
+1412,"Money Laundering"
 1412,Mining
 1413,Fraud/Ponzi
 1413,Exchange
@@ -2519,21 +2519,21 @@ filing_id,topic
 1417,Fraud/Ponzi
 1417,Wallet/Custody
 1418,Other
-1419,Money Laundering
-1420,Money Laundering
+1419,"Money Laundering"
+1420,"Money Laundering"
 1420,Mining
-1421,Money Laundering
-1422,Money Laundering
+1421,"Money Laundering"
+1422,"Money Laundering"
 1423,Fraud/Ponzi
 1423,Exchange
 1424,Fraud/Ponzi
 1424,Exchange
-1425,Money Laundering
-1426,Money Laundering
+1425,"Money Laundering"
+1426,"Money Laundering"
 1427,Fraud/Ponzi
-1427,Insider Trading
+1427,"Insider Trading"
 1427,Exchange
-1428,Market Manipulation
+1428,"Market Manipulation"
 1429,Other
 1430,Other
 1431,Fraud/Ponzi
@@ -2546,7 +2546,7 @@ filing_id,topic
 1437,Fraud/Ponzi
 1437,Exchange
 1438,Fraud/Ponzi
-1438,Money Laundering
+1438,"Money Laundering"
 1438,NFT
 1438,Stablecoin
 1438,DeFi
@@ -2556,7 +2556,7 @@ filing_id,topic
 1439,Other
 1440,NFT
 1441,Fraud/Ponzi
-1441,Market Manipulation
+1441,"Market Manipulation"
 1441,NFT
 1441,Stablecoin
 1441,DeFi
@@ -2568,12 +2568,12 @@ filing_id,topic
 1490,Lending
 1490,Wallet/Custody
 1499,Other
-1523,Insider Trading
+1523,"Insider Trading"
 1523,Exchange
 1535,Other
 1570,Stablecoin
 1590,Fraud/Ponzi
-1590,Money Laundering
+1590,"Money Laundering"
 1658,Fraud/Ponzi
 2058,Lending
 2058,Exchange
@@ -2582,6 +2582,6 @@ filing_id,topic
 2482,Exchange
 2486,Other
 2490,Fraud/Ponzi
-2490,Market Manipulation
+2490,"Market Manipulation"
 2490,Exchange
-2579,Money Laundering
+2579,"Money Laundering"
